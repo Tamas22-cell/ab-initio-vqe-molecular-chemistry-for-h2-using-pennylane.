@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PennyLane](https://img.shields.io/badge/PennyLane-VQE-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
-Convergence for H2](kinetics.jpg)
+![VQE Convergence for H2](kinetics.jpg)
 This project demonstrates an **ab initio Variational Quantum Eigensolver (VQE)** workflow for the hydrogen molecule **H₂** using **PennyLane** and the **STO-3G** basis.
 
 The project covers molecular Hamiltonian construction, Hartree–Fock state preparation, excitation-based ansatz design, VQE optimization, exact diagonalization reference, bond-length scanning, and error analysis.
