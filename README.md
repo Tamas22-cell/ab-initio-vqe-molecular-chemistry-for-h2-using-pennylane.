@@ -1,6 +1,8 @@
 # Ab Initio VQE Molecular Chemistry for H2 using PennyLane
 <img width="1122" height="1402" alt="d6f74d70-b79d-462b-9b0d-e827e96f0b6c" src="https://github.com/user-attachments/assets/02e280c1-6b17-4489-8717-9db8db76be93" />
-
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![PennyLane](https://img.shields.io/badge/PennyLane-VQE-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 This project demonstrates an **ab initio Variational Quantum Eigensolver (VQE)** workflow for the hydrogen molecule **H₂** using **PennyLane** and the **STO-3G** basis.
 
