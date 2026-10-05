@@ -69,3 +69,13 @@ The goal of this project is to demonstrate how hybrid quantum-classical algorith
 
 pip install -r requirements.txt
 python vqe_h2.py
+
+## Run locally
+
+```bash
+git clone https://github.com/Tamas22-cell/ab-initio-vqe-molecular-chemistry-for-h2-using-pennylane.git
+cd ab-initio-vqe-molecular-chemistry-for-h2-using-pennylane
+
+pip install -r requirements.txt
+
+python vqe_h2.py
