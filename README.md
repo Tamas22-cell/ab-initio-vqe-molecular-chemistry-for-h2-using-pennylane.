@@ -13,6 +13,8 @@
 
 ![Absolute Error](letöltés%20(3).png)
 
+![VQE H2 Dashboard](letöltés%20(4).png)
+
 This project demonstrates an **ab initio Variational Quantum Eigensolver (VQE)** workflow for the hydrogen molecule **H₂** using **PennyLane** and the **STO-3G** basis.
 
 The project covers molecular Hamiltonian construction, Hartree–Fock state preparation, excitation-based ansatz design, VQE optimization, exact diagonalization reference, bond-length scanning, and error analysis.
