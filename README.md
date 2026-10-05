@@ -60,3 +60,8 @@ The goal of this project is to demonstrate how hybrid quantum-classical algorith
 ## Status
 
 **Completed**
+
+## How to run
+
+pip install -r requirements.txt
+python vqe_h2.py
